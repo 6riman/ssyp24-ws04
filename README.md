@@ -78,6 +78,7 @@ Arduino IDE: [https://www.arduino.cc/en/software](https://www.arduino.cc/en/soft
 Для загрузки программы в микроконтроллер, необходимо подключить его по micro usb, выбрать порт(если не выбран), загрузить нажав стрелку в Arduino IDE.
 
 ## Схема подключения
+![https://meteo.ssypmarket.ru/scheme.jpg](https://meteo.ssypmarket.ru/scheme.jpg)
 - Чёрый провод - GND.
 - Красный провод - 5V.
 - Синий провод - данные.
