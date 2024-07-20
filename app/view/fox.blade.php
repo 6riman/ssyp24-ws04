@@ -20,7 +20,8 @@
 
 Наш Метео-лис – это не только информатор, но и друг, который всегда рядом. Доверяйте Метео-лису и наслаждайтесь каждым днем, независимо от погоды!
 
- </p>
+            </p>
+            <a href ="https://dialogs.yandex.ru/store/skills/563ae37c-pogoda-v-lshyu" class = "mt-3"> <img src = "/public/img/alice.png" style = "width: 200px; height:auto;"/> </a>
         </div>                                      
     </div>
 </div>
